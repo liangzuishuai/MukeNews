@@ -1,3 +1,5 @@
-# MukeNews
-uniapp开发的一个移动端/小程序/h5
-add new line
+# 初始化数据库
+	
+	我们去当前课程的git 下面 找到此文件 db_init.json文件
+	
+	内容拷贝到clouldfunctions 下面 右键初始化数据库
